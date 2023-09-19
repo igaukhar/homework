@@ -1,0 +1,30 @@
+.h1-first {
+    color: blue;
+    font-size: 50px;
+}
+
+.p-first {
+    color: coral;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: right;
+    letter-spacing: 18px;
+}
+
+.p-second {
+    color: coral;
+    font-size: 25px;
+    text-transform: lowercase;
+    text-align: center;
+    letter-spacing: 18px;
+    text-decoration: line-through;
+}
+
+.p-third {
+    color: coral;
+    font-size: 25px;
+    text-transform: capitalize;
+    text-align: left;
+    letter-spacing: 18px;
+    text-decoration: underline;
+}
