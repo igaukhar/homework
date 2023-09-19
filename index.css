@@ -1,0 +1,13 @@
+.my-custom-text{
+    color: #198296;
+    font-size: 16px;
+    font-weight: 300;
+    /*text-align: justify;*/
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    line-height: 20px;
+    font-family: sans-serif;
+    /*text-decoration: line-through;*/
+   /* hyphens: auto;*/
+    word-break: break-all;
+}
